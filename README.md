@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Infarnum
+- 👀 I’m interested in app and web devolpment 
+- 🌱 I’m currently learning Java, Python and starting javascript
+- 💞️ I’m looking to collaborate on Multiple projects for solving problems and on web development
